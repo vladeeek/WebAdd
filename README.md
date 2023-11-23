@@ -1,4 +1,4 @@
-# Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
+# Full Stack WebAdd with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
 Key Features:
 
@@ -52,7 +52,7 @@ STRIPE_WEBHOOK_SECRET=
 ```
 
 ### Add SQL Tables
-Use `database.sql` file, create songs and liked_songs table (there is a video tutorial)
+Use `database.sql` file, create songs and liked_songs table
 
 ### Start the app
 
